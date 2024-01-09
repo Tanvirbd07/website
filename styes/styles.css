@@ -1,0 +1,53 @@
+.banner {
+    background: url(../resources/Banner\ Image.png);
+    height: 600px;
+    text-align: center;
+    border-radius: 16px;
+    background-repeat: no-repeat;
+    width: 1320px;
+    height: 600px;
+    flex-shrink: 0;
+}
+
+.banner-text p {
+    color: #FFF;
+    font-size: 32px;
+    font-weight: 400;
+
+}
+
+.banner-text h3 {
+    color: #FFF;
+    font-size: 72px;
+    font-weight: 900;
+    margin-top: 0;
+}
+
+.banner-text {
+    padding: 150px;
+}
+.stage1{
+    text-align: center; 
+}
+.stage1-text {
+ color: #F00;
+font-size: 58px;
+font-weight: 700;
+
+}
+.stage2-text{
+ color: #F00;
+font-size: 24px;
+font-weight: 500;
+}
+.stage3-text{
+color: #070211;
+font-size: 58px;
+font-weight: 700;
+}
+.stage02{
+    background: url(../resources/Vectorrr.png);
+    height: 600px;
+    background-repeat: no-repeat;
+    margin-top: 80px;
+}
