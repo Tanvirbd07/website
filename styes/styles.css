@@ -172,3 +172,23 @@ padding-left: 120px;
     padding-left: 120px; 
     border: none;
 }
+.portfolio h5{
+color: #F00;
+font-size: 24px;
+font-weight: 500;
+}
+.portfolio h2{
+ color: #070211;
+font-size: 48px;
+font-weight: 900;
+}
+.portfolio p{
+    font-size: 22px;
+    max-width: 925px;
+}
+.portfolio-img img{
+    border-radius: 16px;
+    padding-top: 10px;
+    padding-left: 10px;
+    
+}
