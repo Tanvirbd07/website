@@ -158,3 +158,17 @@
 border: 15px solid #F00;
 padding: 15px;
 }
+.offer-section-text h2{
+color: #F00;
+font-size: 48px;
+font-weight: 700;
+padding-left: 120px;
+}
+#offer-text{
+    padding-left: 120px; 
+
+}
+#offer-img{
+    padding-left: 120px; 
+    border: none;
+}
