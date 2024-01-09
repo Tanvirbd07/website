@@ -190,7 +190,7 @@
 }
 
 .portfolio p {
-    font-size: 22px;
+    font-size: 18px;
     max-width: 925px;
 }
 
@@ -259,6 +259,10 @@
 
 footer {
     background: #070211;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 30px;
+    
 }
 
 footer h3 {
