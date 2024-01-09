@@ -1,3 +1,8 @@
+.body{
+    max-width: 1250px;
+    margin: 0;
+
+}
 .banner {
     background: url(../resources/Banner\ Image.png);
     height: 600px;
@@ -26,28 +31,70 @@
 .banner-text {
     padding: 150px;
 }
-.stage1{
-    text-align: center; 
+
+.stage1 {
+    text-align: center;
 }
+
 .stage1-text {
- color: #F00;
-font-size: 58px;
-font-weight: 700;
+    color: #F00;
+    font-size: 58px;
+    font-weight: 700;
 
 }
-.stage2-text{
- color: #F00;
-font-size: 24px;
-font-weight: 500;
+
+.stage2-text {
+    color: #F00;
+    font-size: 24px;
+    font-weight: 500;
 }
-.stage3-text{
-color: #070211;
-font-size: 58px;
-font-weight: 700;
+
+.stage3-text {
+    color: #070211;
+    font-size: 58px;
+    font-weight: 700;
 }
-.stage02{
+
+.stage02 {
     background: url(../resources/Vectorrr.png);
     height: 600px;
     background-repeat: no-repeat;
-    margin-top: 80px;
+    justify-content: space-between;
+    display: flex;
+
+}
+
+.stage02-text {
+    padding-left: 126px;
+    padding-top: 70px;
+}
+
+.stage02-text h2 {
+    color: #FFF;
+    font-size: 79px;
+    font-weight: 900;
+    letter-spacing: 7.04px;
+}
+
+.stage02-text p {
+    color: rgba(255, 255, 255, 0.80);
+    font-size: 18px;
+    font-weight: 400;
+    max-width: 675px;
+}
+
+.stage02-text button {
+    background-color: transparent;
+    border: none;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+    padding-top: 30px;
+    padding-left: 90px;
+}
+
+.stage02-img {
+    padding-top: 68px;
+    padding-right: 128px;
+    padding-bottom: 68px;
 }
