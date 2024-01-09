@@ -1,7 +1,5 @@
-.body {
-    max-width: 1250px;
-    margin: 0;
-
+body {
+    font-family: 'Merriweather', serif;
 }
 
 .banner {
@@ -63,6 +61,7 @@
     justify-content: space-between;
     display: flex;
     margin-bottom: 50px;
+    margin-top: 80px;
 
 }
 
@@ -177,6 +176,35 @@
     border: none;
 }
 
+.holiday {
+    text-align: center;
+    background-image: url(../resources/Rectangle\ 2.png);
+    background-position: bottom;
+    background-repeat: no-repeat;
+}
+
+.holiday h5 {
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.holiday h2 {
+    font-size: 72px;
+    font-weight: 900;
+}
+
+#holidays {
+    color: #F00;
+}
+
+.holiday p {
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 32px;
+}
+
+.holiday-img {}
+
 .portfolio h5 {
     color: #F00;
     font-size: 24px;
@@ -262,7 +290,7 @@ footer {
     padding-left: 50px;
     padding-right: 50px;
     padding-top: 30px;
-    
+
 }
 
 footer h3 {
@@ -273,14 +301,16 @@ footer h3 {
 
 .footer-top {
     display: flex;
-    justify-content: space-between;  
+    justify-content: space-between;
 }
-.footer-img{
+
+.footer-img {
     display: flex;
     justify-content: center;
     gap: 10px;
 }
-footer button{
+
+footer button {
     border: none;
     background: #070211;
 }
